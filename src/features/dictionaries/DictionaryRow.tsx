@@ -16,7 +16,9 @@ export function DictionaryRow({ dictionary, onToggle, onDelete, onRename }: Prop
     <>
       <View style={styles.row}>
         <View style={styles.info}>
-          <AppText variant="headword">{dictionary.name}</AppText>
+          <AppText variant="headword" numberOfLines={2} ellipsizeMode="tail">
+            {dictionary.name}
+          </AppText>
           <AppText variant="muted">{dictionary.wordCount} words</AppText>
         </View>
         <IconButton
