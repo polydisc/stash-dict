@@ -1,7 +1,24 @@
-# StashDict
+<p align="center">
+  <img src="assets/icon.svg" width="88" alt="StashDict icon" />
+</p>
 
-An offline iPhone dictionary. Import your own StarDict dictionaries and search
-them within your device.
+<h1 align="center">StashDict</h1>
+
+<p align="center">
+  An offline iPhone dictionary. Import your own StarDict dictionaries and search
+  them on your device.
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/home.png" width="180" alt="Search" />
+  <img src="docs/screenshots/entry-detail.png" width="180" alt="Entry detail" />
+  <img src="docs/screenshots/dark-theme.png" width="180" alt="Dark theme" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/dictionary-management.png" width="180" alt="Dictionary management" />
+  <img src="docs/screenshots/favorites.png" width="180" alt="Favorites" />
+  <img src="docs/screenshots/settings.png" width="180" alt="Settings" />
+</p>
 
 ## Technology
 
