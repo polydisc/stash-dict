@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "StashDict",
+    "slug": "stashdict",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.igarash1.stashdict"
+    },
+    "plugins": [
+      "react-native-edge-to-edge"
+    ],
+    "android": {
+      "package": "com.igarash1.stashdict"
+    }
+  }
+}
