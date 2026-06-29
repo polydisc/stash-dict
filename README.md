@@ -1,0 +1,2 @@
+# stash-dict
+Stash Dict
