@@ -5,7 +5,7 @@
 <h1 align="center">StashDict</h1>
 
 <p align="center">
-  An offline iPhone dictionary. Import your own StarDict dictionaries and search
+  An offline iPhone dictionary. Stash your own StarDict dictionaries and search
   them on your device.
 </p>
 
@@ -15,7 +15,7 @@
   <img src="docs/screenshots/dark-theme.png" width="180" alt="Dark theme" />
 </p>
 <p align="center">
-  <img src="docs/screenshots/dictionary-management.png" width="180" alt="Dictionary management" />
+  <img src="docs/screenshots/dictionaries.png" width="180" alt="Dictionaries" />
   <img src="docs/screenshots/favorites.png" width="180" alt="Favorites" />
   <img src="docs/screenshots/settings.png" width="180" alt="Settings" />
 </p>
