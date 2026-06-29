@@ -8,13 +8,13 @@
     "userInterfaceStyle": "automatic",
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.igarash1.stashdict"
+      "bundleIdentifier": "com.polydisc.stashdict"
     },
     "plugins": [
       "react-native-edge-to-edge"
     ],
     "android": {
-      "package": "com.igarash1.stashdict"
+      "package": "com.polydisc.stashdict"
     }
   }
 }
